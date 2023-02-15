@@ -1,6 +1,6 @@
 {
   "name": "react-modal-jcto",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "description": "A simple responsive and customizable modal for React projects",
   "main": "dist/react-modal-jcto.js",
   "files": ["dist"],
