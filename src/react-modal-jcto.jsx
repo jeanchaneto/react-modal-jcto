@@ -1,4 +1,5 @@
 import "./modal.css"
+import React from 'react';
 
 const Modal = ({ modalBackgroundStyle, modalBodyStyle, modalButtonStyle, closeModalFunction, modalTextStyle, modalText }) => {
     return (
